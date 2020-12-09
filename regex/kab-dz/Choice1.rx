@@ -1,0 +1,2 @@
+(.* (?P<Choice1>.*) neɣ (?P<dummy>.*))
+gar ((?P<Choice1>.*) d <dummy> (?P.*))
